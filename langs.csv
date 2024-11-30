@@ -1,0 +1,36 @@
+name,link,icon,points
+Ada,https://ada-lang.io/,ada.svg,6
+Assembly,https://en.wikipedia.org/wiki/Comparison_of_assemblers,assembly.svg,15
+Awk,https://www.awk.dev/,awk.png,4
+BASIC,https://letmegooglethat.com/?q=what+basic+interpreter+to+use+in+%24%7Bcurrent_year%7D,basic.png,3
+BQN,https://mlochbaum.github.io/BQN/,bqn.png,5
+C,https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf,c.svg,4
+Clojure,https://clojure.org/,clojure.png,5
+COBOL,https://gnucobol.sourceforge.io/,cobol.jpg,8
+D,https://dlang.org/,d.svg,4
+Dart,https://dart.dev/,dart.svg,3
+DreamMaker,https://www.byond.com/docs/guide/,dreammaker.gif,7
+Erlang,https://www.erlang.org/,erlang.svg,5
+Fortran,https://fortran-lang.org/,fortran.png,6
+Go,https://go.dev/,go.png,2
+Hare,https://harelang.org/,hare.png,4
+Haskell,https://www.haskell.org/,haskell.svg,7
+Javascript,javascript:(function()%7Balert('hello%20world')%3B%7D)()%3B,javascript.png,1
+Julia,https://julialang.org/,julia.svg,5
+Lisp,https://lisp-lang.org/,lisp.svg,5
+Lua,https://www.lua.org/,lua.svg,2
+Mathematica,https://www.wolfram.com/mathematica/,mathematica.svg,9
+Nim,https://nim-lang.org/,nim.svg,5
+Perl,https://www.perl.org/,perl.svg,3
+Prolog,https://www.swi-prolog.org/,prolog.png,7
+Python,https://www.python.org/,python.svg,1
+R,https://www.r-project.org/,r.svg,5
+Ruby,https://www.ruby-lang.org/en/,ruby.svg,1
+Rust,https://www.rust-lang.org/,rust.svg,5
+Scala,https://www.scala-lang.org/,scala.svg,5
+SCSS,https://sass-lang.com/,scss.svg,8
+Shell Script,https://en.wikipedia.org/wiki/List_of_command-line_interpreters,shell.png,2
+Smalltalk,https://squeak.org/,smalltalk.svg,5
+Spreadsheet Editor,https://docs.google.com/spreadsheets/u/0/,whitecollar.jpeg,6
+SQL,https://sqlite.org/,sql.png,7
+Zig,https://ziglang.org/,zig.svg,3

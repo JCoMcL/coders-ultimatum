@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 39.189999 36.330002"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="julia.svg"
+   width="39.189999"
+   height="36.330002"
+   inkscape:version="1.4 (e7c3feb, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="9.1223717"
+     inkscape:cx="-20.334624"
+     inkscape:cy="49.329277"
+     inkscape:window-width="3440"
+     inkscape:window-height="1419"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g920" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.cls-1{fill:#1a1a1a}.cls-2{fill:#4d64ae}.cls-3{fill:#ca3c32}.cls-4{fill:#9259a3}.cls-5{fill:#399746}</style>
+  </defs>
+  <title
+     id="title1">Asset 2</title>
+  <g
+     id="g920"
+     transform="translate(-96.9)">
+    <g
+       id="g890">
+      <path
+         id="path13"
+         d="m 105.79,36.33 a 8.9,8.9 0 1 1 8.91,-8.9 8.91,8.91 0 0 1 -8.91,8.9 z"
+         class="cls-3" />
+      <path
+         id="path25"
+         d="m 127.18,36.33 a 8.9,8.9 0 1 1 8.91,-8.9 8.91,8.91 0 0 1 -8.91,8.9 z"
+         class="cls-4" />
+      <path
+         id="path31"
+         d="m 116.49,17.8 a 8.9,8.9 0 1 1 8.9,-8.9 8.89,8.89 0 0 1 -8.9,8.9 z"
+         class="cls-5" />
+    </g>
+  </g>
+</svg>

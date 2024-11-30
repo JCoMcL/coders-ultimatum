@@ -1,0 +1,47 @@
+body {
+	background-color: #e2a9a2;
+	margin: 0;
+	overflow: hidden;
+}
+.image-container {
+	position: relative;
+}
+.image-container > img {
+	width: 100%;
+	max-height: 100vh;
+}
+.langblock {
+	position: absolute;
+	top: 69%;
+	left: 36%;
+	transform: translate(-50%, -100%);
+
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	padding: 0.5em;
+
+	background-color: aliceblue;
+	box-shadow: 0.3em 0.3em 0.3em #0000004f;
+	border-radius: 3px;
+}
+.langblock:last-child {
+	top: 68%;
+	left: 65%;
+}
+.langtitle {
+	display: flex;
+	align-items: baseline;
+	text-decoration: none;
+
+	border: 0px solid;
+
+	border-bottom-width: 3px;
+}
+.langtitle img {
+	height: 3em;
+}
+.langtitle h1 {
+	font-size: 2em;
+	margin: 0;
+}
