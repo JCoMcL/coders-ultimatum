@@ -68,17 +68,3 @@ getData("langs.csv").then(langs => {
 	})
 })
 
-
-addLangblock(populateTemplate("langblock-template", {
-	name: "Ada",
-	points: 7,
-	icon: "/icons/ada.svg",
-	link: "https://ada-lang.io/"
-}));
-
-addLangblock(populateTemplate("langblock-template", {
-	name: "Python",
-	points: 10,
-	icon: "/icons/python.svg",
-	link: "https://python.org/"
-}));
